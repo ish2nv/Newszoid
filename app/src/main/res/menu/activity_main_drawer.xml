@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nyt"
+            android:icon="@drawable/ic_new_york_times"
+            android:title="The New York Times" />
+
+        <item
+            android:id="@+id/aljazeera"
+            android:icon="@drawable/ic_aljazeera"
+            android:title="Al Jazeera" />
+
+        <item
+            android:id="@+id/buzz_feed"
+            android:icon="@drawable/ic_buzzfeed"
+            android:title="BuzzFeed" />
+
+        <item
+            android:id="@+id/yahoo"
+            android:icon="@drawable/ic_yahoonews"
+            android:title="Yahoo News" />
+        <item
+            android:id="@+id/guardian"
+            android:icon="@drawable/ic_guardian_icon"
+            android:title="The Guardian" />
+        <item
+            android:id="@+id/independent"
+            android:icon="@drawable/ic_independent"
+            android:title="The Independent" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/menu_share" />
+
+    </group>
+
+</menu>

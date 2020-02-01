@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imgsize">90dp</dimen>
+    <dimen name="titlesize">18sp</dimen>
+    <dimen name="datesize">15sp</dimen>
+    <dimen name="icontitlesize">23sp</dimen>
+
+
+
+</resources>
