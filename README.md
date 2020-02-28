@@ -15,3 +15,7 @@ NewsZoid is a simple news application that allows users to view the latest news 
 <p align="center">
   <img src="https://github.com/ish2nv/Newszoid/blob/master/logoimg/gigtutorial44.gif" alt="app tutorial">
 </p>
+
+
+
+Download in PlayStore: [Newszoid](https://play.google.com/store/apps/details?id=com.aliindustries.newszoid&hl=en_GB)
