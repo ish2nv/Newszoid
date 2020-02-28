@@ -2,7 +2,7 @@
 
 # Newszoid
 
-NewsZoid is a simple news application that allows users to view the latest news from different broadcasts. It uses RSS feed to continuously collect the latest news. Some of the different broadcast are: The New York Times, Al Jazeera, BuzzFeed, Yahoo News, The Guardian and The Independent. More broadcasts can be added with later updates.
+NewsZoid is a simple news application that allows users to view the latest news from different broadcasts. It uses RSS feed to continuously collect the latest news. Some of the different broadcast are: The New York Times, Al Jazeera, BuzzFeed, Yahoo News, The Guardian and The Independent. More broadcasts will be added with later updates.
 
 ## Goal
 
